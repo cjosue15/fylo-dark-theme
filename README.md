@@ -12,13 +12,21 @@ Solo debes clonarlo abrir el index.html y listo 😊
 
 Puedes ver el demo aquí → [Fylo dark theme landing page](https://cjosue15.github.io/fylo-dark-theme/)
 
-🖥 Version Escritorio
+<details>
+
+<summary>🖥 Version Escritorio</summary>
 
 ![](./design/desktop-design.jpg)
 
-📱 Version Celular
+</details>
+
+<details>
+
+<summary>📱 Version Celular</summary>
 
 ![](./design/mobile-design.jpg)
+
+</details>
 
 ## 🛠️ Construido con
 
